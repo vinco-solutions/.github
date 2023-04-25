@@ -1,1 +1,1 @@
-![Vinco]("vinco logo2.png").
+![Vinco](logo firma 2.png)
